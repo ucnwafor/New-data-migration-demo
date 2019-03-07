@@ -1,5 +1,5 @@
 -- To get the row counts for all the tables in the database--
-
+---Make sure this code works
 SET NOCOUNT ON 
 
 DECLARE @SourceDB VARCHAR(100) 
